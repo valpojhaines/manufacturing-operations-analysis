@@ -65,3 +65,19 @@ No confidential, proprietary, or personally identifiable information is included
 A key finding is that absolute production volume can be misleading when production targets differ across operating conditions.
 
 Although machines and shifts showed statistically significant differences in raw production output, those differences largely disappeared after accounting for production targets. Achievement Rate was similarly consistent across operating groups.
+
+## Power BI Dashboard
+
+The Power BI report provides an interactive view of manufacturing performance, including production output, target achievement, quality, downtime, and machine-level performance.
+
+### Dashboard Overview
+
+![Power BI Dashboard](visualizations/executive_summary.png)
+
+### Production Analysis
+
+![Production Analysis](visualizations/production_analysis.png)
+
+### Machine Detail
+
+![Machine Detail](visualizations/machine_detail.png)
